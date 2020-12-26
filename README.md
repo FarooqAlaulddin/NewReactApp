@@ -1,6 +1,11 @@
 
 # React Material Dashboard ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+
+### Farooq Alaulddin
+> This is an edited version. I used this template to kick start new projects.
+
+### Original Author
 > Free React Dashboard made with [Material UI's](https://material-ui.com/?ref=devias-io) components, [React](https://reactjs.org/?ref=devias-io) and of course [create-react-app](https://facebook.github.io/create-react-app/?ref=devias-io) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on [https://devias.io/](https://devias.io/)
 
 ## Quick start
